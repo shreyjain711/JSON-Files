@@ -1,7 +1,8 @@
 {
   "name" : "",
-  "lite" : [],
-  "main" : [],
-  "sweet": [],
-  "randQuotes": ["<random humorous quotes of that region>"],
+  "lite" : [{"name": "", "prepTime": "", "stars": "", "ingredients": [], "recipe": [], "imgLinks": ["","",""];},{},{}],
+  "main" : [{"name": "", "prepTime": "", "stars": "", "ingredients": [], "recipe": [], "imgLinks": ["","",""];},{},{},{},{}],
+  "sweet": [{"name": "", "prepTime": "", "stars": "", "ingredients": [], "recipe": [], "imgLinks": ["","",""];},{},{}],
+  //"randQuotes": ["<random humorous quotes of that region>"],
 }
+//Dish Schema {"name": "", "prepTime": "", "stars": "", "ingredients": [], "recipe": [], "imgLinks": ["","",""];}
