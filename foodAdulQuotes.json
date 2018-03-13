@@ -1,1 +1,43 @@
-
+{
+  "quotes": [
+    {
+      "quote": "It can be argued that many of the difficulties faced nowadays by society in maintaining a safe food supply can be effectively addressed by more science or, preferably, better science.",
+      "by": "Professor Xavier Malcata, College of Biotechnology, Portuguese Catholic University"
+    },
+    {
+      "quote": "Businesses must evolve over time, and as more information on food safety becomes available to the public, those that pro-act to new advances are going to be in a better position.",
+      "by": "Roger Berkowitz,  President and CEO, Legal Sea Foods"
+    },
+    {
+      "quote": "Not responding is a response - we are equally responsible for what we don't do.",
+      "by": "Jonathan Safran Foer, Eating Animals"
+    },   
+    {
+      "quote": "The faster you can get results, the closer to real time, the better off you are, It means that you could actually be testing while you’re producing products and have the results before you ship it out. That’s huge.",
+      "by": "Will Daniels,  Senior VP of Earthbound FarmFood safety involves everybody in the food chain."
+    },{
+      "quote": "Food safety involves everybody in the food chain.",
+      "by": "Mike Johanns, US Senator"
+    },    
+    {
+      "quote": "There is testing done all the way from the farm to the fork.  Food companies want to sell safe products, but they also want to protect their brand name, which is most directly influenced by a recall",
+      "by": "Tom Weschler, Strategic Consulting, Inc."
+    },
+    {
+      "quote": "[One] scenario that is all too familiar is waiting for positive data to drive changes in design. That is attacking Listeria after it has crossed enemy lines…way too close for comfort. Don’t wait for positive data to start making changes. Don’t wait for the enemy to get that close",
+      "by": "Christine Hurckes, OSI Group, from National Provisioner"
+    },
+    {
+      "quote": "One of the trends we’re seeing in food and agriculture is more and more consumers wanting to know things about their food and where and how it’s grown and what’s in it",
+      "by": "Dan Glickman, Oxfam America board member & former US Secretary of Agriculture"
+    },
+    {
+      "quote": "Stated in the simplest terms, the recognized solution to the problem of foodborne illness is a comprehensive prevention strategy that involves all participants in the food system, domestic and foreign, doing their part to minimize the likelihood of harmful contamination. And that is the strategy mandated by FSMA. It is not a strategy that assumes we can achieve a zero-risk food supply, but it is a strategy grounded in the conviction that we can better protect consumers and the economic vigor of the food system if everyone involved implements reasonably available measures to reduce risk.",
+      "by": "Michael R. Taylor, FDA’s Deputy Commissioner for Foods"
+    },
+    {
+      "quote": "Food is our common ground, a universal experience.",
+      "by": "James Beard, Chef and food writer"
+    }
+  ]
+}
