@@ -2,55 +2,55 @@
   "name" : "asian",
   "lite" : [
     {
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "calories": "",
-      "recipe": [],
-      "imgLink": ""
+      "name": "Sesame Green Beans",
+      "prepTime": "10",
+      "stars": "4.4",
+      "ingredients": ["1 lb. green beans, trimmed", "1 tsp. salt", "1 tbsp. soy sauce or Braggs Liquid Aminos", "3 splashes of ginger juice OR 1/2 tsp. of freshly grated ginger root", "1/5 tbsp. butter, cubed", "1 1/2 tsp. toasted sesame seeds", "1 tbsp. rice wine vinegar"],
+      "calories": "38",
+      "recipe": ["Steam green beans for about 10 mins. When the beans are cooked through but still crisp, place in a serving bowl. Toss all other ingredients and serve", "Number of Servings: 4"],
+      "imgLink": "https://c1.staticflickr.com/3/2618/3698269265_a6433ef9b1.jpg"
     },{
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Russian Olivier Salad",
+      "prepTime": "80",
+      "stars": "5",
+      "ingredients": ["Eggs, hard boiled - 7", "Lean beef, cooked - 170 g", "Kentucky Legend Ham - 190g", "Canned peas - 1 can", "Nearly cooked potatoes, peeled - 4 medium or 308 g", "Nearly cooked carrots, peeled - 94 g", "Cucumber, peeled - 210g or 1 medium", "Cucumber pickles - 175 g", "Mayonnaise - 100 g", "Sour cream - 155 g"],
+      "recipe": ["Cut everything to a size of peas, mix with mayo and sour cream", "Number of Servings: 20"],
+      "calories": "145",
+      "imgLink": "https://cdn.pixabay.com/photo/2017/05/13/18/16/russian-salad-2310348_960_720.jpg"
     },{
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Thai Mango Salad",
+      "prepTime": "20",
+      "stars": "4.5",
+      "ingredients": ["2 firm mangos, grated (julienned is better)", "0.5 cup bean sprouts", "1 green onion, diced", "1/4 red pepper, thinly sliced", "0.25 cup snow peas", "2 tbsp chopped fresh cilantro", "1 lime, squeezed", "1 tbsp fish sauce (omit for vegetarian)", "0.5 tbsp cashew nuts", "Chili flakes"],
+      "recipe": ["Grate the mangos. Add the diced onion, bean sprouts, red pepper, snow peas and cilantro. Add fish sauce and squeezed juice of lime. Sprinkle with chili flakes to make it spicy. Toss. Top with cashews. This should make 4 servings of approximately 1 cup", "Number of Servings: 4"],
+      "calories": "98",
+      "imgLink": "https://c1.staticflickr.com/9/8213/28806942311_55f17c26fe_b.jpg"
     }],
   "main" : [
     {
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Sesame Chicken",
+      "prepTime": "140",
+      "stars": "4",
+      "ingredients": ["1 pound (16 ounces) boneless skinless chicken breast, cut into bite sized chunks", "3 Tbsp soy sauce", "3 Tbsp olive oil", "2 Tbsp raw cane sugar", "1 tsp honey", "1/2 tsp garlic powder", "1/4 cup white, untoasted sesame seeds", "liberal pinches of black pepper, ground ginger and ground cinnamon"],
+      "recipe": ["Combine all ingredients except chicken in a bowl", "Add chicken, mix together well so the chicken is thoroughly coated in the marinade, cover and let it sit in the fridge for 2 hours or so", "Preheat oven to 350 degrees", "Arrange chicken on a cookie sheet, and pour liquid on top of it", "Bake in oven for 5 minutes, flip chicken pieces with a spatula, and bake for another 5 minutes, or until done", "Serve with brown rice (not included in the Nutritional Info, because everybody", "likes different amounts of rice, or some might even not want rice at all.)", "Makes 4 4-oz servings" ],
+      "calories": "300",
+      "imgLink": "https://cdn.pixabay.com/photo/2017/06/26/13/58/chicken-2443901_960_720.jpg"
     },{
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Shrimp Pad Thai",
+      "prepTime": "30",
+      "stars": "4.5",
+      "ingredients": ["8 oz rice sticks", "2 T fish sauce", "2 T low-sodium soy sauce", "2 T brown sugar", "1/4 t crushed red pepper, or more to taste", "2 t vegetable oil", "1 egg, lightly beaten", "1 lb frozen shrimp", "4 garlic cloves, minced", "4 green onions, coarsely onions", "2 C fresh bean sprouts", "2 T chopped peanuts", "lime wedges", "fresh chopped cilantro"],
+      "recipe": ["Bring large pot pf water to boil. Remove from heat and add rice, stirring to separate. Soak 5-7 minutes, or until tender; then drain and rinse in cold water. Set aside.", "Mix fish sauce, soy sauce, sugar and crushed red pepper in small bowl until sugar dissolves. Set aside", "Heat 1 tsp oil in wok over med-high heat. Add egg, and cook quickly, until opaque. Move to side. Add frozen shrimp to wok, cook 5-7 minutes until just cooked through. Drain excess liquid. Add garlic, stir fry 1 minute.", "Add remaining oil, and then noodles. stir fry quickly until softened, about 2 minutes. Add sauce mixture. Coat noodles evenly, stirring until heated through. Stir in green onions, and bean sprouts and cook 2 more minutes. Mound on serving platter, and garnish with peanuts, lime wedges and cilantro", "Of course, you could substitute the shrimp with chicken, if you're family prefers. :) It's yummy either way", "Makes about 6 - 1 1/3 cup servings"],
+      "calories": "211",
+      "imgLink": "https://c1.staticflickr.com/5/4050/4339908741_da16cb10c7_b.jpg"
     },{
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Baked Chicken Egg Rolls",
+      "prepTime": "55",
+      "stars": "4.4",
+      "ingredients": ["3 C bagged coleslaw mix, divided", "1/4 C sliced water chestnuts (about 10 slices)", "1/4 C green onions", "2 tea canola oil", "1 T minced ginger", "4 cloves garlic, minced", "1/4 C grated onion", "1lb ground chicken (boneless, skinless chicken breast, ground)", "1/4 t kosher salt", "2 tea low sodium soy sauce"],
+      "recipe": ["Preheat oven to 425 Degrees. Spray a baking sheet with non-stick cooking spray. Set aside","In a food processor, combine 1 C of the bagged coleslaw, water chestnuts, and green onions. Pulse about 12 times or until ground into small pieces. Set aside","Mince garlic cloves and ginger. Grate onion until you have 1/4 C","In an extra large skillet on the stove top heat canola oil. Leave temperature at medium-high. Add the minced ginger, minced garlic, and grated onion. Saute for 2-3 minutes or until tender. Add the ground chicken and kosher salt. Cook until chicken is no longer pink","Add cabbage mixture to skillet along with the 2 C additional coleslaw mix. Saute for 2 minutes and then add soy sauce. Cook one minute longer and then remove from heat","Place 3-4 T filling in each egg roll wrapper and roll to seal","Place on baking sheet and spray the tops lightly with cooking spray","Bake in preheated oven for 20-25 minutes or until browned on the edges. (If under-baked, egg rolls will be chewy!) Let cool for 5-10 minutes before serving. ","Makes 14-16 egg rolls"],
+      "calories": "234",
+      "imgLink": "https://c1.staticflickr.com/2/1079/1025232597_acdf5fe191.jpg"
     },{
       "name": "",
       "prepTime": "",
