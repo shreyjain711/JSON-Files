@@ -1,1 +1,125 @@
-
+{
+  "name" : "asian",
+  "lite" : [
+    {
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "calories": "",
+      "recipe": [],
+      "imgLink": ""
+    },{
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    },{
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    }],
+  "main" : [
+    {
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    },{
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    },{
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    },{
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    },{
+      "name": "",
+      "prepTime": "",
+      "stars": "",
+      "ingredients": [],
+      "recipe": [],
+      "calories": "",
+      "imgLink": ""
+    }],
+  "sweet": [{
+    "name": "Russian Teacakes",
+    "prepTime": "20",
+    "stars": "4",
+    "ingredients": ["2 1/2 cups flour", "1 tsp vanilla", "1 cup soft butter", "1/2 cup sifted powdered sugar", "1 tsp salt", "1/2 cup finely chopped nuts (walnuts or pecans)"],
+    "recipe": ["Mix all ingredients", "Roll into small balls and put on ungreased cookie sheet. Bake at 355 degrees for 15 minutes","When cool, roll in powdered sugar. (or roll inpowdered sugar while still warm and then again when cooled.)"],
+    "calories": "81",
+    "imgLink": "https://c1.staticflickr.com/9/8357/8307560889_401be2980b_b.jpg"
+  },{
+    "name": "Blueberry Cobbler",
+    "prepTime": "30",
+    "stars": "4.5",
+    "ingredients": [
+      "2 teaspoons sugar",
+      "3/4 cup fresh or frozen blueberries",
+      "1 tablespoon unsweetened shredded coconut",
+      "1 1/2 tablespoons almond meal or all-purpose flour",
+      "1 teaspoon unsweetened applesauce",
+      "1 pinch salt",
+      "1 splash vanilla extract",
+      "Sweetener to taste"
+    ],
+    "recipe": [
+      "Preheat oven to 400 degrees. In a small skillet, melt sugar over medium-low heat. When completely dissolved (about 1 minute), add blueberries and cook, stirring frequently, for 3 to 4 minutes or until berries are liquidy but still retain some of their shape. Remove from heat",
+      "Meanwhile, combine coconut, almond meal, applesauce, salt, vanilla extract, and sweetener in a small bowl and mix well. Applesauce should coat other ingredients so they stick together but aren’t too moist. Place blueberry mixture in a greased 6- to 8-ounce ramekin and sprinkle coconut mixture in small bits over top. Bake for about 20 minutes or until top is cooked, crisp, and slightly browned. Let cool"
+    ],
+    "calories": "168",
+    "imgLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvU7qOY1SXagQvwo4GTexqqt2e_IIA93iKYvvuJ3TYmxihdN9l"
+  },{
+    "name": "Chinese Coconut Pudding",
+    "prepTime": "65",
+    "stars": "4.5",
+    "ingredients": [
+      "2 tbsp unflavored gelatin",
+      "1 3/8 cups water (1/2 cup cold, rest boiling)",
+      "1 can of coconut milk (400 ml)",
+      "1/2 cup sugar",
+      "2 egg whites"
+      ],
+    "recipe": [
+      "Lightly grease a 1 litre container if you are going to flip out the pudding before serving. Otherwise, use a container which you can cut the pudding in without scratching the container",
+      "In a small microwaveable bowl, dissolve gelatin with 1/2 cup of cold water. Set aside for 5 mins",
+      "Microwave the gelatin mixture for 10-15 seconds",
+      "Transfer to larger bowl, pour remaining boiling water to mix well. (Step 2 is to avoid having lumps in gelatin mixture)",
+      "Add sugar, once it is dissolved, add coconut milk. Allow to cool to room temperature",
+      "Whip egg whites until soft peak",
+      "When gelatin is cooled to room temperature, place gelatin bowl in an ice bath",
+      "When mixture begins to set*, fold egg whites into it",
+      "Spread in prepared dish and refrigerate until set",
+      "Equally divide into 4 before serving"
+    ],
+    "calories": "174",
+    "imgLink": "http://www.flickr.com/photos/benhosg/40338474261/in/pool-72296557@N00"
+  }],
+}
