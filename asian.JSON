@@ -52,21 +52,21 @@
       "calories": "234",
       "imgLink": "https://c1.staticflickr.com/2/1079/1025232597_acdf5fe191.jpg"
     },{
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Russian Meatless Borsht",
+      "prepTime": "60",
+      "stars": "4.5",
+      "ingredients": ["1 pound beets (beetroot), peeled and cut into matchsticks", "2 medium onions, sliced into half-moons", "2 large carrots, peeled and cut into matchsticks", "3/4 pound white cabbage, cut thinly into shreds", "2 tablespoons olive oil", "5 cups vegetable stock", "Juice of 1/2 a lemon", "Salt to taste", "Coarsely ground black pepper", "Sour cream (optional, omit for vegan soup)", "Finely chopped parsley or chives (optional, for garnish)"],
+      "recipe": ["Peel and cut the onions, carrots, and beets (alternatively, shred the carrots and beets using the shredding blade of a food processor) and sauté over medium heat in the olive oil with a pinch of salt in a large soup pot. Reserve a small amount of beet to grate and add near the end to enliven the color." ,"In the meantime, bring the vegetable stock to a boil. When the vegetables are soft (about 5 minutes), add the shredded cabbage and the hot stock. Bring to a boil and simmer 15-25 minutes, until the vegetables are tender. With a few minutes left, add the reserved grated beet.", "Season to taste with salt and pepper, then squeeze in the lemon juice, aiming for a pleasing but subtle sour taste. Serve with freshly grated black pepper, a dollop of sour cream, and chopped parsley, if desired.", "Number of Servings: 6"],
+      "calories": "209",
+      "imgLink": "https://upload.wikimedia.org/wikipedia/commons/3/38/Russian_borscht_with_beef_and_sour_cream.jpg"
     },{
-      "name": "",
-      "prepTime": "",
-      "stars": "",
-      "ingredients": [],
-      "recipe": [],
-      "calories": "",
-      "imgLink": ""
+      "name": "Russian mushroom and potato soup",
+      "prepTime": "30",
+      "stars": "5",
+      "ingredients": ["5 tbsp butter divided", "3 leeks chopped", "6 large carrots sliced", "6 cups chicken broth", "1 tbsp dill weed", "1/2 tsp black pepper", "1 bay leaf", "2 lbs potatoes, semi peeled and sliced", "16 oz fresh mushrooms, cleaned and sliced", "1 cup milk", "1/4 cup flour"],
+      "recipe": ["melt 3 tbsp butter; add the leeks and carrots.  saute 5 min.  stir in chicken broth, dill, slat, pepper adn bay leaf.  Add potatoes and simmer 20 min.  until potatoes are tender.  Remove bay leaf.  saute mushrooms in 2 tbsp butter 5 min.  combine mild and the flour.  sitr into soup with the mushrooms.  cook and stir until lightly thickened.  Is delicious with a slice of bread or a salad", "Number of Servings: 8"],
+      "calories": "254",
+      "imgLink": "https://upload.wikimedia.org/wikipedia/commons/2/2a/POL_Mushroom_and_Potato_Soup%2C_02.JPG"
     }],
   "sweet": [{
     "name": "Russian Teacakes",
